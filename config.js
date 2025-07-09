@@ -1,4 +1,4 @@
 console.log('config');
-console.log('version 4');
-console.log('new version is 5');
+console.log('version 5');
+console.log('new version is 6');
 
